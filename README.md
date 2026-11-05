@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm DIGITALFRA
+
+## Free-Time Python & HTML Developer 
+
+💻 I’m currently working on booting iPadOS on Xiaomi Pad 5 (nabu) using UniXNU Project
 
 <!--
 **DIGITALFRA/DIGITALFRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
